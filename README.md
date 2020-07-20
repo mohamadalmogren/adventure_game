@@ -1,4 +1,4 @@
-# adventure_game
+# adventure_game udacity IPND
 
 -The game gives players a description of what's happening, and then asks them to make a choice.
 -Something different happens depending on the choice the player made.
